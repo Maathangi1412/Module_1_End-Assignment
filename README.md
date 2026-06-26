@@ -308,3 +308,6 @@ Pivot Tables were created to summarize and analyze data.
 ## 🚀 Conclusion
 
 This project demonstrates how Microsoft Excel can be used as a complete Business Intelligence and Data Analytics tool. Through data cleaning, integration, statistical analysis, Pivot Tables, and dashboard development, meaningful business insights were generated to support data-driven decision-making.
+
+<img width="663" height="630" alt="image" src="https://github.com/user-attachments/assets/e33e67e6-f977-4d1d-b925-1776650bf763" />
+
